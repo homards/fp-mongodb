@@ -23,10 +23,8 @@
   },
   "homepage": "https://github.com/homards/fp-mongodb#Readme",
   "devDependencies": {
+    "@types/mongodb": "^3.6.12",
     "mongodb": "^3.6.6",
     "rxjs": "^7.0.0"
-  },
-  "dependencies": {
-    "@types/mongodb": "^3.6.12"
   }
 }
