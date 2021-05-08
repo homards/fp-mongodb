@@ -1,0 +1,32 @@
+{
+  "name": "fp-mongodb",
+  "version": "0.0.1",
+  "description": "Observable tools for mongodb",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/homards/fp-mongodb.git"
+  },
+  "keywords": [
+    "Rxjs",
+    "Observable",
+    "MongoDB"
+  ],
+  "author": "guocailee@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/homards/fp-mongodb/issues"
+  },
+  "homepage": "https://github.com/homards/fp-mongodb#Readme",
+  "devDependencies": {
+    "mongodb": "^3.6.6",
+    "rxjs": "^7.0.0"
+  },
+  "dependencies": {
+    "@types/mongodb": "^3.6.12"
+  }
+}
